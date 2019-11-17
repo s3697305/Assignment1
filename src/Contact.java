@@ -24,8 +24,7 @@ public class Contact {
         this.contactEmail = email;
         this.contactAddress = address;
     }
-
-
+    
     public String getContactName() {
         return this.contactName;
     }

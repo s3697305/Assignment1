@@ -21,6 +21,8 @@ This is a contact list program written in Java to maintain a contact list effici
     7. Sort the contact list by one of the given fields
     8. Save contacts to a text file
     9. Quit 
+    
+    An UML Class Diagram and a Top-Down design are also included in the /doc folder for better comprehension.
 
 3. INSTALLATION
     There are 2 ways to install and run this program. It can be cloned from my GitHub: https://github.com/s3697305/Assignment1 or unzip the folder uploaded on Canvas.
