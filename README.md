@@ -23,11 +23,12 @@ This is a contact list program written in Java to maintain a contact list effici
     9. Quit 
 
 3. INSTALLATION
-Provide instructions on how to install and run the software.
-
+    There are 2 ways to install and run this program. It can be cloned from my GitHub: https://github.com/s3697305/Assignment1 or unzip the folder uploaded on Canvas.
+    
+    
 4. KNOWN BUGS
-List the unfixed bugs and the workarounds, if any.
+Some inputs are error-handled, but some inputs need to be carefully typed as order.
 
 5. ACKNOWLEDGEMENT
-List the resources and help that you use to complete this software.
-Failing to do so might be considered as plagiarism.
+- Intro to Java Programming, Comprehensive Version, Global Edition
+- Absolute Java, Global Edition
